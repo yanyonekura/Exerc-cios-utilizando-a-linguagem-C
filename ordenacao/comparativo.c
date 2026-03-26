@@ -3,7 +3,7 @@
 #include <time.h>
 
 #define MAX_CEPS 1000000
-#define INCREMENTO 10000 // Ajustado para 10.000 conforme solicitado
+#define INCREMENTO 10000 
 
 // --- Funções do HeapSort (Questão 2) ---
 void heapify(int arr[], int n, int i) {
