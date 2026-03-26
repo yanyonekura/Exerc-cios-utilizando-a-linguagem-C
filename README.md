@@ -22,5 +22,5 @@ Estudo detalhado de estruturas de busca e balanceamento:
 ## 🛠️ Tecnologias e Ferramentas
 * **Linguagem:** C
 * **Compilador:** GCC
-* **Ambiente:** VS Code / Terminal Linux
+* **Ambiente:** VS Code 
 
